@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://baslog.ru
+Sitemap: https://baslog.ru/sitemap.xml
